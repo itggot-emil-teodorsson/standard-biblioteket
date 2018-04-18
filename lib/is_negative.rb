@@ -4,5 +4,3 @@ def is_negative(num)
     else return false
     end
 end
-
-p is_negative(-3)
