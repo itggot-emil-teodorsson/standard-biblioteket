@@ -1,1 +1,0 @@
-def min_of_two
