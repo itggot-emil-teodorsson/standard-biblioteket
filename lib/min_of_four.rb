@@ -11,8 +11,7 @@
 #   # => 1
 #
 # Returns the smallest of the four numbers.
- 
-def min_of_four(num1, num2, num3, num4)
+ def min_of_four(num1, num2, num3, num4)
     if num1 < num2
         if num1 < num3
             if num1 < num4
