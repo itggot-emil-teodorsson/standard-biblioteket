@@ -8,7 +8,7 @@
 #   starts_with("hej hopp", "h")
 #   # => true
 #
-# Returns the true or false depending on if the symbol is the firts symbol in the string or not.
+# Returns the true or false depending on if the symbol is the first symbol in the string or not.
 def starts_with(str, let)
     output = false
     if str[0] == let
